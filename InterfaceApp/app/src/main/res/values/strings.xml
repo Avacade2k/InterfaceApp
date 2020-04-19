@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">InterfaceApp</string>
+
+    <string-array name="items">
+        <item>France</item>
+        <item>Italy</item>
+        <item>Sweden</item>
+        <item>UK</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="cases">
+        <item>151.793</item>
+        <item>175.925</item>
+        <item>13.822</item>
+        <item>114.217</item>
+        <item>738.923</item>
+    </string-array>
+
+    <string-array name="deaths">
+        <item>19.323</item>
+        <item>23.227</item>
+        <item>1.511</item>
+        <item>15.464</item>
+        <item>39.015</item>
+    </string-array>
+
+    <string-array name="recovered">
+        <item>35.983</item>
+        <item>44.927</item>
+        <item>550</item>
+        <item>34.274</item>
+        <item>68.285</item>
+    </string-array>
+
+    <string-array name="borders">
+        <item>Closed</item>
+        <item>Closed</item>
+        <item>Open</item>
+        <item>Closed</item>
+        <item>Closed</item>
+    </string-array>
+</resources>
